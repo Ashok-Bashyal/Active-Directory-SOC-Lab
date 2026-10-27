@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# 🛡️ Active Directory HomeLab
+# 🛡️ Active Directory SOC HomeLab
 
 ### Enterprise Security Monitoring & Threat Detection
 
