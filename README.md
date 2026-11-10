@@ -247,7 +247,7 @@ I selected **ISO file** to create installation media that could be attached to V
 
 ### Step 2 — Create the Virtual Machine
 
-After downloading the ISO, I opened VMware Workstation Pro and selected:
+After downloading the ISO, I opened VMware Workstation Pro and select:
 
 **File → New Virtual Machine**
 
