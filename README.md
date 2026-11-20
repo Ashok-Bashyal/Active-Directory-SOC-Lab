@@ -86,7 +86,7 @@ The purpose of this project was to develop practical experience with Active Dire
 14. [SPL Threat Detection Queries](#14-spl-threat-detection-queries)
 15. [Project Results and Findings](#15-project-results-and-findings)
 16. [Conclusion](#16-conclusion)
-17. [References](#17-references)
+
 
 ---
 
